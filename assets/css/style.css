@@ -38,7 +38,6 @@ body {
 
 section {
     padding: 10px 0;
-    min-height: 55vh;
 }
 
 a {
@@ -749,6 +748,10 @@ footer {
         overflow-x: hidden;
         box-sizing: border-box;
         padding-top: 65px;
+    }
+
+    #mobile-track .container {
+        margin-top: 20px;
     }
 
     /* contact-footer 래퍼는 내부에서 세로로 쌓임 */
